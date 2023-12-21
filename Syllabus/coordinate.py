@@ -15,3 +15,7 @@ print(a.x)
 print(b.y)
 print(a.show())
 print(b.show())
+
+print(a.distance(b))
+print(b.distance(a))
+print(coordinate.distance(a,b))
