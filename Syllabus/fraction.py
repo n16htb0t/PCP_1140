@@ -11,7 +11,7 @@ class fraction():
         return str(self.x)+"/"+str(self.y)
     def __add__(self,other):
         return str(self.x+other.x)+"/"+str(self.y+other.y)
-
+    
     def __sub__(self,other):
         return str(self.x-other.x)+"/"+str(self.y-other.y)
 
