@@ -12,10 +12,12 @@ class fraction():
     def __add__(self,other):
         return str(self.x+other.x)+"/"+str(self.y+other.y)
 
+    def __sub__(self,other):
+        return str(self.x-other.x)+"/"+str(self.y-other.y)
 
-
-a=fraction(3,4)
+a=fraction(3,14)
 b=fraction(5,6)
 print(a)
 print(b)
 print(a+b)
+print(a-b)
