@@ -1,5 +1,0 @@
-"saba",",manjavdize",98
-"daksh","khurana"
-"david","tavo","tavartkhiladze",97
-"nemo",95
-"viktor","lavrntiev","pita"
