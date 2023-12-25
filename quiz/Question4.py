@@ -11,7 +11,7 @@ def Fibonacci():
         rabbits=previous+current
         previous=current
         current=rabbits
-        file.write(str(rabbits) + '\t' + ":Rabbits"+'\n')
+        file.write( "Rabbits:" + str(rabbits) +'\n')
     file.close()
     print("The number of rabbits is: ",rabbits)
 Fibonacci()

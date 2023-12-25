@@ -1,0 +1,5 @@
+The number of months is: 5	Rabbits:2
+Rabbits:3
+Rabbits:5
+Rabbits:8
+Rabbits:13
