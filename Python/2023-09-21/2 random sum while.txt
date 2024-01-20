@@ -1,0 +1,10 @@
+import random
+a=random.randrange(0,10)
+b=random.randrange(10,20)
+summ=0
+print (a,b)
+i=a
+while i<b:
+    summ=summ+i
+    i+=1
+print (summ)

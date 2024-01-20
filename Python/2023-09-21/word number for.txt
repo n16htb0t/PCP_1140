@@ -1,0 +1,4 @@
+a=input("write the word")
+b=int(input("write the number"))
+for i in range(0,b):
+    print (a)

@@ -1,0 +1,10 @@
+a="hello"
+print(a.count("l"))
+print (a.replace("e","*"))
+print (a.replace("e",""))
+print (a.find("e"))
+print (a.index("e"))
+print (a.upper())
+print (a.lower())
+print (a.capitalize())
+print (a.swapcase())

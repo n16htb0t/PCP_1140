@@ -1,0 +1,8 @@
+print ("hello", 'no', 5)
+print ("5+2=",5+2)
+print ("5-2=",5-2)
+print ("5*2=",5*2)
+print ("5/2=",5/2)
+print ("5//2=",5//2)
+print ("5^2=",5**2)
+print ("remainder:",5%2)
