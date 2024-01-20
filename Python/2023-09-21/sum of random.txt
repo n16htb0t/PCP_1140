@@ -1,0 +1,8 @@
+import random
+a=random.randrange(0,10)
+b=random.randrange(10,20)
+print (a,b)
+summ=0
+for i in range(a,b):
+   summ=summ+i
+print (summ)

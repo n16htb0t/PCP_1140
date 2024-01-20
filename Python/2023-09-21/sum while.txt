@@ -1,0 +1,6 @@
+summ=0
+i=0
+while i<5:
+    summ=summ+i
+    i+=1
+print (summ)

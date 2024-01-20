@@ -1,0 +1,12 @@
+a=input("write the password")
+tries=1
+while a!="letmeout":
+    print ("You are stucked here")
+    a=input("write the password")
+    tries+=1 
+    if tries==5:
+        break
+if tries==5:
+    print ("you are blocked sir")
+else:
+    print ("welcome back")

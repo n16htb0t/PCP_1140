@@ -1,0 +1,6 @@
+a=input("write the word")    
+b=int(input("write the number"))
+i=0
+while i<b:
+    print (i+1,a)
+    i=i+1

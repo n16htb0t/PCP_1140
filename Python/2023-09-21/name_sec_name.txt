@@ -1,0 +1,8 @@
+a=input("write the name")
+b=input("write the sec_name")
+if a=="maksim" and b=="iavich":
+    print("I know u")
+elif a=="maksim" or b=="iavich":
+    print("I partly know you")
+else:
+    print ("anonymous")

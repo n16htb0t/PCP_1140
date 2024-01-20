@@ -1,0 +1,4 @@
+summ=0
+for i in range(0,5):
+   summ=summ+i
+print (summ)

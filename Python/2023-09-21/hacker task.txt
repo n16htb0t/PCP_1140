@@ -1,0 +1,8 @@
+a=input("write the user")
+b=input("write the password")
+if a=="useri" and b=="paroli":
+    print("welcome")
+elif a=="useri" or b=="paroli":
+    print("try again")
+else:
+    print ("you are hacker")
